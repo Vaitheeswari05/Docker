@@ -1,6 +1,6 @@
 # Docker
 
-#Docker Archietecture
+**Docker Archietecture**
 
 ![Docker Architecture](https://raw.githubusercontent.com/Vaitheeswari05/Docker/refs/heads/master/Docker_Architecture.webp)
 
